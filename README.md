@@ -1,6 +1,7 @@
 # GraphicEvaluation
 This repository contains a java library capable of evaluating graphic compositions and detecting compliance with pre-established rules. It's based on the Google API, which requires a licensed account to use and composition rules.
 
+
 # Technologies
 - Java version 16.0.2
 - Gradle version 7.4.2
